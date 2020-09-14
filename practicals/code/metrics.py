@@ -1,5 +1,5 @@
 def get_accuracy(gt, pred):
-        """calculates accuracy of prediction compared to the ground truth
+    """calculates accuracy of prediction compared to the ground truth
     
     parameters
     ----------
